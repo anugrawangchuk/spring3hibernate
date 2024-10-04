@@ -5,6 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>Spring3HibernateApp</groupId>
     <artifactId>Spring3HibernateApp</artifactId>
+    <version>1.8.1</version> <!-- Release version without SNAPSHOT -->
+    <version>1.8.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <scm>

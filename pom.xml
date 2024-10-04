@@ -143,8 +143,7 @@
         </plugins>
     </build>
 
-    <version>1.8-SNAPSHOT</version>
-    <packaging>war</packaging>   
+    <version>1.8-SNAPSHOT</version>  
     <name>Spring3HibernateApp</name>
     <url>http://maven.apache.org</url>
 

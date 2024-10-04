@@ -144,6 +144,7 @@
     </build>
 
     <version>1.8-SNAPSHOT</version>  
+    <packaging>war</packaging>
     <name>Spring3HibernateApp</name>
     <url>http://maven.apache.org</url>
 
